@@ -1,6 +1,6 @@
-### Hi there, welcome to my Github! 👋
+## Hi there, welcome to my Github! 👋
 
-About Me:
+### About Me:
 
 I am a curious learner, effective teammate, and always willing to put in the work to get things done. I have a strong desire to have impact on people’s lives and the world. I wanted to challenge myself in new ways and recently decided to pursue a career in software engineering. I love to problem solve and think critically about the world. Since attending Hack Reactor’s intensive software engineering immersive program, I couldn’t be happier with my decision to pursue this career. I find it very challenging and rewarding. I thoroughly enjoy branching out, learning new technologies, and I’ve noticed that there are always endless opportunities to learn and grow.
 
