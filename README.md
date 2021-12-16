@@ -7,9 +7,9 @@ I am a curious learner, effective teammate, and always willing to put in the wor
 I've quickly become a full stack software engineer with the following skillset:
 
 Front End - JavaScript (ES5 and ES6), React, HTML5, CSS3, jQuery, Redux, Material UI
-Back End - Node.js, Express, MySQL, PostgreSQL, MySQL, MongoDB, Passport.js, RESTful API Development
-Testing/Deployment - Jest, Mocha, Chai, AWS: EC2, NginX, K6, Loader.io
-Developer Tools - Vim, Git, npm, Webpack, Babel, Agile Methodology, TDD
+!Back End - Node.js, Express, MySQL, PostgreSQL, MySQL, MongoDB, Passport.js, RESTful API Development
+!Testing/Deployment - Jest, Mocha, Chai, AWS: EC2, NginX, K6, Loader.io
+!Developer Tools - Vim, Git, npm, Webpack, Babel, Agile Methodology, TDD
 
 I am currently seeking new software engineering opportunities. Feel free to message me anytime if you're interested in discussing potential roles or projects!
 
