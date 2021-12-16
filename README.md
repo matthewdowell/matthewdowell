@@ -1,4 +1,4 @@
-## Hi there, welcome to my Github! 👋
+## Hi there, welcome to my GitHub! 👋
 
 ### About Me:
 
